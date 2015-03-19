@@ -12,5 +12,5 @@
 /*.ipr
 /*.iws
 /atlassian-ide-plugin.xml
-
+*.log
 *.MF
